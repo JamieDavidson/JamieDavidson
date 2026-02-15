@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Jamie Davidson 👋
 - 🔭 Senior Full Stack Engineer @ Liberis
 - 🔭 .NET & React Expert
