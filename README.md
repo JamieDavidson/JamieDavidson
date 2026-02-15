@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Jamie Davidson 👋
+- 🔭 Senior Full Stack Engineer @ Liberis
+- 🔭 .NET & React Expert
+- 🌱 Currently learning Mandarin
+- 🎭 Keen security researcher
+- 💬 Mentor for software engineers at undergraduate and above
+
 <!--
 **JamieDavidson/JamieDavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
